@@ -1,0 +1,23 @@
+
+
+Email   : admin@mail.com
+Password: besten.com
+
+---Teacher Login Details---
+
+Email   : teacher@mail.com
+Password: besten.com
+
+---Student Login Details---
+
+Email   : student@mail.com
+Password: besten.com
+
+---Parents Login Details---
+
+Email   : parent@mail.com
+Password: besten.com
+
+
+
+
